@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu ul {
+    display: flex;
+}
+
+.menu ul li {
+    list-style: none;
+     font-weight: bold;
+     line-height: 40px;
+     
+}
+
+.menu ul li a {
+    text-decoration: none;
+    padding: 0px 15px;
+    font-size: 50px;
+    color: black;
+    margin-left: 200px;
+   
+}
+.menu {
+    background-color: chocolate;
+}
+.container img{
+    width:200px;
+    height:200px;
+    object-fit: cover;
+    border-radius: 50%;
+    float: right;
+    margin-right: 30px;
+}
+.container{
+    background-color: #E9E7EA;
+    width: 350px;;
+    height: 600px;
+    float: right;
+}
+
+.container p{
+    float: right;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.container .icon i{
+    float: left;
+    font-size: 25px;
+    margin-left: 20px;
+}
+.gt {
+    float: right;
+    background-color: bisque;
+    width: 800px;
+    height: 600px;
+    font-size: 20px;
+    line-height: 50px;
+}
+.gt p{
+    margin-left: 10px;
+}
+.gt h2{
+    float: right;
+    margin-right: 70px;
+    color:rgb(4, 11, 17)
+}
+.truonghoc h2{
+    float: left;
+    color: orange;
+    font-size: 22px;
+}
+.truonghoc{
+    line-height: 100px;
+}
+.header img{
+    height: 100px;
+}
+.truonghoc b{
+    font-size: 20px;
+}
+.truonghoc img{
+    font-size: 150px;
+}
+.footer{
+    background-color:chocolate;
+    border: #ccc 1px solid;
+    margin: 0px auto;
+    text-align: center;
+    width: 100%;
+    margin-top: 0px;
+    height: 100px;
+}
+.footer iframe{
+    width: 200px;
+    height: 100px;
+    
+}
+
+
